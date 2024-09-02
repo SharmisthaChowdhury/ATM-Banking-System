@@ -21,8 +21,8 @@ This project is a simple ATM interface system developed in Java, providing basic
 
 1. **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/yourusername/ATM-Interface.git
+    ```bash[
+    git clone https://github.com/SharmisthaChowdhury/ATM-Banking-System.git
     ```
 
 2. **Navigate to the project directory:**
